@@ -2,7 +2,7 @@
 
 Example to create a ListView Widget.
 Get photos to API
-Implemnts functions asynchronous.
+Implements functions asynchronous.
 
 ## Getting Started
 
